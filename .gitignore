@@ -1,0 +1,4 @@
+.packages/
+.mplconfig/
+__pycache__/
+.venv/
